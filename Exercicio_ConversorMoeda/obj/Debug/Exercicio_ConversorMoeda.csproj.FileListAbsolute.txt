@@ -1,0 +1,8 @@
+C:\Users\Eduardo.santos\source\repos\Exercicio_ConversorMoeda\bin\Debug\Exercicio_ConversorMoeda.exe.config
+C:\Users\Eduardo.santos\source\repos\Exercicio_ConversorMoeda\bin\Debug\Exercicio_ConversorMoeda.exe
+C:\Users\Eduardo.santos\source\repos\Exercicio_ConversorMoeda\bin\Debug\Exercicio_ConversorMoeda.pdb
+C:\Users\Eduardo.santos\source\repos\Exercicio_ConversorMoeda\obj\Debug\Exercicio_ConversorMoeda.csproj.AssemblyReference.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio_ConversorMoeda\obj\Debug\Exercicio_ConversorMoeda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio_ConversorMoeda\obj\Debug\Exercicio_ConversorMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio_ConversorMoeda\obj\Debug\Exercicio_ConversorMoeda.exe
+C:\Users\Eduardo.santos\source\repos\Exercicio_ConversorMoeda\obj\Debug\Exercicio_ConversorMoeda.pdb

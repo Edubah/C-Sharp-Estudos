@@ -1,0 +1,8 @@
+C:\Users\Eduardo.santos\source\repos\Curso\bin\Debug\Curso.exe.config
+C:\Users\Eduardo.santos\source\repos\Curso\bin\Debug\Curso.exe
+C:\Users\Eduardo.santos\source\repos\Curso\bin\Debug\Curso.pdb
+C:\Users\Eduardo.santos\source\repos\Curso\obj\Debug\Curso.csproj.AssemblyReference.cache
+C:\Users\Eduardo.santos\source\repos\Curso\obj\Debug\Curso.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo.santos\source\repos\Curso\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\source\repos\Curso\obj\Debug\Curso.exe
+C:\Users\Eduardo.santos\source\repos\Curso\obj\Debug\Curso.pdb

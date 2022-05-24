@@ -1,0 +1,15 @@
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\bin\Debug\net6.0\Exercicio-Funcionario.exe
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\bin\Debug\net6.0\Exercicio-Funcionario.deps.json
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\bin\Debug\net6.0\Exercicio-Funcionario.runtimeconfig.json
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\bin\Debug\net6.0\Exercicio-Funcionario.dll
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\bin\Debug\net6.0\Exercicio-Funcionario.pdb
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\obj\Debug\net6.0\Exercicio-Funcionario.csproj.AssemblyReference.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\obj\Debug\net6.0\Exercicio-Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\obj\Debug\net6.0\Exercicio-Funcionario.AssemblyInfoInputs.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\obj\Debug\net6.0\Exercicio-Funcionario.AssemblyInfo.cs
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\obj\Debug\net6.0\Exercicio-Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\obj\Debug\net6.0\Exercicio-Funcionario.dll
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\obj\Debug\net6.0\refint\Exercicio-Funcionario.dll
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\obj\Debug\net6.0\Exercicio-Funcionario.pdb
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\obj\Debug\net6.0\Exercicio-Funcionario.genruntimeconfig.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio-Funcionario\obj\Debug\net6.0\ref\Exercicio-Funcionario.dll

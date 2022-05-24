@@ -1,0 +1,8 @@
+C:\Users\Eduardo.santos\source\repos\MembrosEstaticos_Versao_1\bin\Debug\MembrosEstaticos_Versao_1.exe.config
+C:\Users\Eduardo.santos\source\repos\MembrosEstaticos_Versao_1\bin\Debug\MembrosEstaticos_Versao_1.exe
+C:\Users\Eduardo.santos\source\repos\MembrosEstaticos_Versao_1\bin\Debug\MembrosEstaticos_Versao_1.pdb
+C:\Users\Eduardo.santos\source\repos\MembrosEstaticos_Versao_1\obj\Debug\MembrosEstaticos_Versao_1.csproj.AssemblyReference.cache
+C:\Users\Eduardo.santos\source\repos\MembrosEstaticos_Versao_1\obj\Debug\MembrosEstaticos_Versao_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo.santos\source\repos\MembrosEstaticos_Versao_1\obj\Debug\MembrosEstaticos_Versao_1.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\source\repos\MembrosEstaticos_Versao_1\obj\Debug\MembrosEstaticos_Versao_1.exe
+C:\Users\Eduardo.santos\source\repos\MembrosEstaticos_Versao_1\obj\Debug\MembrosEstaticos_Versao_1.pdb

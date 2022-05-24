@@ -1,0 +1,15 @@
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\bin\Debug\net6.0\Exercicio-retangulo.exe
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\bin\Debug\net6.0\Exercicio-retangulo.deps.json
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\bin\Debug\net6.0\Exercicio-retangulo.runtimeconfig.json
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\bin\Debug\net6.0\Exercicio-retangulo.dll
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\bin\Debug\net6.0\Exercicio-retangulo.pdb
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\obj\Debug\net6.0\Exercicio-retangulo.csproj.AssemblyReference.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\obj\Debug\net6.0\Exercicio-retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\obj\Debug\net6.0\Exercicio-retangulo.AssemblyInfoInputs.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\obj\Debug\net6.0\Exercicio-retangulo.AssemblyInfo.cs
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\obj\Debug\net6.0\Exercicio-retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\obj\Debug\net6.0\Exercicio-retangulo.dll
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\obj\Debug\net6.0\refint\Exercicio-retangulo.dll
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\obj\Debug\net6.0\Exercicio-retangulo.pdb
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\obj\Debug\net6.0\Exercicio-retangulo.genruntimeconfig.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio-retangulo\obj\Debug\net6.0\ref\Exercicio-retangulo.dll

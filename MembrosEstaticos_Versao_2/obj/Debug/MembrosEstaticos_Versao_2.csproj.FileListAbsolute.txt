@@ -1,0 +1,3 @@
+C:\Users\Eduardo.santos\source\repos\MembrosEstaticos_Versao_2\obj\Debug\MembrosEstaticos_Versao_2.csproj.AssemblyReference.cache
+C:\Users\Eduardo.santos\source\repos\MembrosEstaticos_Versao_2\obj\Debug\MembrosEstaticos_Versao_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo.santos\source\repos\MembrosEstaticos_Versao_2\obj\Debug\MembrosEstaticos_Versao_2.csproj.CoreCompileInputs.cache

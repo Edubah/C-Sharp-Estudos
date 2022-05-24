@@ -1,0 +1,8 @@
+C:\Users\Eduardo.santos\source\repos\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+C:\Users\Eduardo.santos\source\repos\Encapsulamento\bin\Debug\Encapsulamento.exe
+C:\Users\Eduardo.santos\source\repos\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\Eduardo.santos\source\repos\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Eduardo.santos\source\repos\Encapsulamento\obj\Debug\Encapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo.santos\source\repos\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\source\repos\Encapsulamento\obj\Debug\Encapsulamento.exe
+C:\Users\Eduardo.santos\source\repos\Encapsulamento\obj\Debug\Encapsulamento.pdb

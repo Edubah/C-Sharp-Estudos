@@ -1,0 +1,15 @@
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\obj\Debug\net6.0\Exercicio_Aluno.csproj.AssemblyReference.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\obj\Debug\net6.0\Exercicio_Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\obj\Debug\net6.0\Exercicio_Aluno.AssemblyInfoInputs.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\obj\Debug\net6.0\Exercicio_Aluno.AssemblyInfo.cs
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\obj\Debug\net6.0\Exercicio_Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\bin\Debug\net6.0\Exercicio_Aluno.exe
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\bin\Debug\net6.0\Exercicio_Aluno.deps.json
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\bin\Debug\net6.0\Exercicio_Aluno.runtimeconfig.json
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\bin\Debug\net6.0\Exercicio_Aluno.dll
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\bin\Debug\net6.0\Exercicio_Aluno.pdb
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\obj\Debug\net6.0\Exercicio_Aluno.dll
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\obj\Debug\net6.0\refint\Exercicio_Aluno.dll
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\obj\Debug\net6.0\Exercicio_Aluno.pdb
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\obj\Debug\net6.0\Exercicio_Aluno.genruntimeconfig.cache
+C:\Users\Eduardo.santos\source\repos\Exercicio_Aluno\obj\Debug\net6.0\ref\Exercicio_Aluno.dll
