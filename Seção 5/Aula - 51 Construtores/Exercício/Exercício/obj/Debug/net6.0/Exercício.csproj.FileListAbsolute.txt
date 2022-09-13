@@ -1,0 +1,15 @@
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\bin\Debug\net6.0\Exercício.exe
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\bin\Debug\net6.0\Exercício.deps.json
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\bin\Debug\net6.0\Exercício.runtimeconfig.json
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\bin\Debug\net6.0\Exercício.dll
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\bin\Debug\net6.0\Exercício.pdb
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\obj\Debug\net6.0\Exercício.csproj.AssemblyReference.cache
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\obj\Debug\net6.0\Exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\obj\Debug\net6.0\Exercício.AssemblyInfoInputs.cache
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\obj\Debug\net6.0\Exercício.AssemblyInfo.cs
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\obj\Debug\net6.0\Exercício.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\obj\Debug\net6.0\Exercício.dll
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\obj\Debug\net6.0\refint\Exercício.dll
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\obj\Debug\net6.0\Exercício.pdb
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\obj\Debug\net6.0\Exercício.genruntimeconfig.cache
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 5\Aula - 51 Construtores\Exercício\Exercício\obj\Debug\net6.0\ref\Exercício.dll
