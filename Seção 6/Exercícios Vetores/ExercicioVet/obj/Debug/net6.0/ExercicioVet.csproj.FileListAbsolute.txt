@@ -1,0 +1,15 @@
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\bin\Debug\net6.0\ExercicioVet.exe
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\bin\Debug\net6.0\ExercicioVet.deps.json
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\bin\Debug\net6.0\ExercicioVet.runtimeconfig.json
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\bin\Debug\net6.0\ExercicioVet.dll
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\bin\Debug\net6.0\ExercicioVet.pdb
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\obj\Debug\net6.0\ExercicioVet.csproj.AssemblyReference.cache
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\obj\Debug\net6.0\ExercicioVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\obj\Debug\net6.0\ExercicioVet.AssemblyInfoInputs.cache
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\obj\Debug\net6.0\ExercicioVet.AssemblyInfo.cs
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\obj\Debug\net6.0\ExercicioVet.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\obj\Debug\net6.0\ExercicioVet.dll
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\obj\Debug\net6.0\refint\ExercicioVet.dll
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\obj\Debug\net6.0\ExercicioVet.pdb
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\obj\Debug\net6.0\ExercicioVet.genruntimeconfig.cache
+C:\Users\Eduardo.santos\Documents\Programação\C-Sharp-Estudos\Seção 6\Exercícios Vetores\ExercicioVet\obj\Debug\net6.0\ref\ExercicioVet.dll

@@ -13,15 +13,15 @@ namespace Exercício
         public string Titular { get; set; }
         public double Saldo { get; private set; }
 
-        public ContaBancaria(int numero, string titular)
+        public ContaBancaria(int numero, string titular) //Construtor que não fará nada, deixará tudo zerado
         {
             Numero = numero;
             Titular = titular;
         }
 
-        public ContaBancaria(int numero, string titular, double saldo) : this(numero, titular)
+        public ContaBancaria(int numero, string titular, double depositoinicial) : this(numero, titular)
         {
-            Saldo = saldo;
+            Deposito(depositoinicial);
         }
 
         public void Deposito(double quantia)
