@@ -9,13 +9,12 @@ namespace Aula66
     {
          static void Main(string[] args)
         {
-            Point p = new Point();
+            Point p; //Por ser um struct que é TIPO VALOR ele não precisa ser declarado igual uma classe
 
             p.X = 10;
             p.Y = 20;
-            Console.WriteLine(p);
-            p = new Point();
-            Console.WriteLine(p);
+
+            Console.WriteLine(p);           
         }
     }
 }

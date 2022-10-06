@@ -2,7 +2,7 @@
 
 namespace Aula66
 {
-    internal class Point
+    struct Point //Criando um Struct
     {
         public double X;
         public double Y;
