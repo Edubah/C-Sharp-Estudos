@@ -1,0 +1,18 @@
+Boxing
+• É o processo de conversão de um objeto tipo valor para um objeto
+tipo referência compatível
+
+Exemplo:
+int x = 20;
+
+Object obj = x;
+
+Unboxing
+• É o processo de conversão de um objeto tipo referência para um
+objeto tipo valor compatível
+
+int x = 20;
+
+Object obj = x;
+
+int y = (int) obj;
